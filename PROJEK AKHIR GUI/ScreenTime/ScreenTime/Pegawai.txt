@@ -1,0 +1,3 @@
+Name,ID,Position,Salary
+Siti Aminah,EMP002,Marketing Manager,7500000,
+Rudi Santoso,EMP030P2,CEO,10000000,
